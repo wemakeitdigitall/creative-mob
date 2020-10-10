@@ -3,13 +3,13 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
-    android:background="#fff"
+    android:background="#000"
     android:layout_height="match_parent">
 
     <ImageView
         android:layout_width="240dp"
         android:layout_height="240dp"
-        android:src="@drawable/transparent"
+        android:src="@drawable/ic_launcher"
         android:layout_marginTop="100dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
